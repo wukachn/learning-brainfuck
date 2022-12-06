@@ -1,4 +1,4 @@
-Output First 7 Elements In ASCII
+Generate & Output First 7 Elements In ASCII
 
 >>>>>>+++++++++++[<++++>-]<<<<<<++++>>>>++++++++
 [<<<++++++>>>-]<<<.>>>++++++++[<<<------>>>-]<<+
