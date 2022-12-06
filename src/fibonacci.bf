@@ -1,4 +1,4 @@
-Generate & Output First 7 Elements of the Fibonacci Sequence In ASCII
+Generate & Output 7 Elements of the Fibonacci Sequence In ASCII
 
 >>>>>>+++++++++++[<++++>-]<<<<<<++++>>>>++++++++
 [<<<++++++>>>-]<<<.>>>++++++++[<<<------>>>-]<<+
